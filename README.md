@@ -9,8 +9,10 @@
 
 5. drop cookie.js in the folder.
 
-6. navigate to localhost:4000.
+6. run `node cookie.js`
 
-7. in firefox, navigate to tools > web developer > web console. type 'document.cookie' and you'll see the body of your cookie!
+7. navigate to localhost:4000.
 
-8. if you have cookies manager+ you'll also be able to find (and edit) your cookie that way.
+8. in firefox, navigate to tools > web developer > web console. type 'document.cookie' and you'll see the body of your cookie!
+
+9. if you have cookies manager+ you'll also be able to find (and edit) your cookie that way.
